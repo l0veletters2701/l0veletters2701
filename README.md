@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/image%20(1).png" width=570>
+ <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/image%20(1).png" width=500>
 
 <p align="center">   <samp>$\color{#d2c09c}{\textsf{  “ I know if you look for me I'd look you in the eye.”}}$</samp>
 
