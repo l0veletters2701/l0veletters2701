@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/image%20(1).png?raw=true" width=500>
 
-<p align="center">   <samp>$\color{#d2c09c}{\textsf{  “ I know if you look for me I'd look you in the eye.”}}$</samp>
+<p align="center">   <samp>$\color{#d2c09c}{\textsf{  “ I know if you looked for me I'd look you in the eye.”}}$</samp>
 
 <p align="center">   $\color{#d2c09c}{\textsf{ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -}}$
 
