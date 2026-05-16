@@ -1,8 +1,9 @@
 <p align="center">
  <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/image%20(1).png?raw=true" width=500>
 
-<p align="center">   <samp>$\color{#d2c09c}{\textsf{  “ I know if you looked for me I'd look you in the eye.”}}$</samp>
-
+<p align="center">   <samp>$\color{#3d1b9f}{\textsf{  “Did you know that your eyes look like stars sometimes?”}}$</samp>
+<p align="center">   <samp>$\color{#b76634}{\textsf{󠀠󠀠󠀠“Pfft- Sorry, just too funny! It sounded like you want to compliment me!”}}$</samp>
+ 
 <p align="center">   $\color{#d2c09c}{\textsf{ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -}}$
 
 <p align="center">   $\color{#d06016}{\textsf{ 𓏵 𝗗𝗡𝗜 - 𝘜𝘯𝘥𝘦𝘳 13 . 𝘉𝘢𝘴𝘪𝘤 𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢 𓏵}}$
