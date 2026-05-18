@@ -26,3 +26,5 @@
 <div align="center">
 
  ![](https://komarev.com/ghpvc/?username=l0v3letters2701&color=885a45&label=stitches)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l2lndika3yhj6t25ownedqnd7a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=746767&interchange=false&profanity=true&hide_remaster=false&bar_color=b78062&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31l2lndika3yhj6t25ownedqnd7a&redirect=true)
