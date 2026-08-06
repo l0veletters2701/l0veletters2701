@@ -10,8 +10,8 @@
   
 <p align="center">   $\color{#d2c09c}{\textsf{ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -}}$
   
-<p align="center">   $\color{#d2c09c}{\textsf{he/they - minor}}$
-<p align="center"> $\color{#69a7b6}{\textsf{t}}\color{#dc8e84}{\textsf{r}}\color{#e2cab7}{\textsf{a}}\color{#dc8e84}{\textsf{n}}\color{#69a7b6}{\textsf{s}}$ $\color{#e2cab7}{\textsf{-}}$ $\color{#c67609}{\textsf{a}}\color{#edab00}{\textsf{r}}\color{#e2cab7}{\textsf{oa}}\color{#577fd2}{\textsf{c}}\color{#154177}{\textsf{e}}$
+<p align="center">   $\color{#d2c09c}{\textsf{any pronouns - minor}}$
+<p align="center"> $\color{#e8597c}{\textsf{ge}}\color{#e2cab7}{\textsf{nd}}\color{#9b31b9}{\textsf{er}}\color{#4a4745}{\textsf{fl}}\color{#3d569e}{\textsf{uid}}$ $\color{#e2cab7}{\textsf{-}}$ $\color{#be4621}{\textsf{l}}\color{#c65a23}{\textsf{e}}\color{#e18845}{\textsf{s}}\color{#e2cab7}{\textsf{b}}\color{#d16083}{\textsf{i}}\color{#bd2d61}{\textsf{a}}\color{#b3154e}{\textsf{n}}$
 <p align="center">   $\color{#d2c09c}{\textsf{VN - EN}}$
 <p align="center">   $\color{#c8a288}{\textsf{ErrorInk shipper (˶ᵔ ᵕ ᵔ˶)}}$
 
