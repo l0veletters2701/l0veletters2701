@@ -6,7 +6,7 @@
  
 <p align="center">   $\color{#d2c09c}{\textsf{ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -}}$
 
-<p align="center">   $\color{#d06016}{\textsf{ 𓏵 𝗗𝗡𝗜 - 𝘜𝘯𝘥𝘦𝘳 13 . 𝘉𝘢𝘴𝘪𝘤 𝘤𝘳𝘪𝘵𝘦𝘳𝘪𝘢 𓏵}}$
+<p align="center">   $\color{#d06016}{\textsf{𝗗𝗡𝗜 - under 13 . basic criteria}}$
   
 <p align="center">   $\color{#d2c09c}{\textsf{ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -}}$
   
