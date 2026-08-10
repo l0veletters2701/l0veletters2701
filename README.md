@@ -1,8 +1,9 @@
 <p align="center">
  <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81172_20260809193147.png?raw=true" width=500>
 
-<p align="center">   <samp>$\color{#8c3f9c}{\textsf{  “Did you know that your eyes look like stars sometimes?”}}$</samp>
-<p align="center">   <samp>$\color{#d46b5d}{\textsf{󠀠󠀠󠀠“Pfft- Sorry, just too funny! It sounded like you want to compliment me!”}}$</samp>
+<p align="center">   $\color{#8c3f9c}{\textsf{  “Did you know that your eyes look like stars sometimes?”}}$
+<p align="center">   $\color{#ef8752}{\textsf{˖ ݁♬⋆.˚𝄞}}$
+<p align="center">   $\color{#d46b5d}{\textsf{󠀠󠀠󠀠“Pfft- Sorry, just too funny! It sounded like you want to compliment me!”}}$
 
 
  
@@ -11,7 +12,7 @@
 
  
 
-<p align="center">   $\color{#db4171}{\textsf{𝗗𝗡𝗜 - under 13 . basic criteria}}$
+<p align="center">   $\color{#f6597b}{\textsf{𝗗𝗡𝗜 - under 13 . basic criteria}}$
   
 <p align="center">   $\color{#e396a3}{\textsf{ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -}}$
   
@@ -25,10 +26,10 @@
 
 <p align="center">
  <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/Tumblr_l_45415482307569.gif?raw=true" width=450>
-
+ 
 <p align="center">
- <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/stamp.png?raw=true">
-  
+ <img src="https://github.com/l0veletters2701/l0veletters2701/blob/main/2026_08_10_13e_Kleki.png?raw=true" width=160>
+
 <div align="center">
 
  ![](https://komarev.com/ghpvc/?username=l0v3letters2701&color=f6788d&label=stitches)
