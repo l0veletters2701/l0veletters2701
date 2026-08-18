@@ -12,7 +12,8 @@
 
  
 
-<p align="center">   $\color{#f6597b}{\textsf{𝗗𝗡𝗜 - under 13 . basic criteria}}$
+<p align="center">   $\color{#f6597b}{\textsf{𝗗𝗡𝗜 - under 13 . over 20+ .}}$ <a href="https://basic-dnis-criteria.carrd.co/"><b>[Basic DNIs]</b></a>
+
   
 <p align="center">   $\color{#e396a3}{\textsf{ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -}}$
   
